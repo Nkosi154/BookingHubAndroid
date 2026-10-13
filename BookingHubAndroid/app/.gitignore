@@ -1,0 +1,6 @@
+*.*ml
+.gradle
+/local.properties
+/.ide**/.kotlin
+/build
+**/build***
